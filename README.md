@@ -1,8 +1,7 @@
 <!-- Profile README for matteocervelli -->
 
 <p align="center">
-  <img src="[https://github.com/matteocervelli/matteocervelli/blob/main/profile-photo.jpg](https://cdn.adlimen.com/profile/mc-profile-teal.png
-)" alt="Matteo Cervelli" width="150" style="border-radius:50%;"/>
+  <img src="https://cdn.adlimen.com/profile/mc-profile-teal.png" alt="Matteo Cervelli" width="150" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Matteo Cervelli</h1>
