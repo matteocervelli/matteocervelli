@@ -1,100 +1,42 @@
-<!-- Profile README for matteocervelli -->
+# Matteo Cervelli
 
-<p align="center">
-  <img src="https://cdn.adlimen.com/profile/mc-profile-teal.png" alt="Matteo Cervelli" width="150" style="border-radius:50%;"/>
-</p>
+Former CEO, now building software and advising the teams navigating what I went through.
+Industrial engineer by training. Based in Tuscany.
 
-<h1 align="center">Matteo Cervelli</h1>
-<p align="center"><em>Transformation & Business Scalability Engineer</em></p>
-<p align="center"><strong>“Cross the threshold, unleash potential”</strong></p>
+I run [Ad Limen](https://www.adlimen.com) — a consulting and product studio.
+On one side: helping Italian SMEs cross critical growth thresholds (succession, scale-up, strategic reset)
+with a method I call Liminality Engineering™.
+On the other: building the AI-augmented tools that make that work faster and more precise.
 
----
+The two sides inform each other. The consulting gives me the domain problems. The software builds the solutions.
 
-## 👋 About Me
+More [about me](https://matteocervelli.com/en/about)
 
-I’m Matteo Cervelli, an Industrial Engineer based in Tuscany, Italy, on a mission to unlock growth at critical turning points for organizations and people. I combine hands-on CEO experience, engineering rigor, and a holistic vision to empower Italian SMEs—and now, to build the next generation of digital tools for business transformation.
+## What I build
 
-- **Founder | Ad Limen S.r.l.**  
-  *Building an innovative SaaS and information products company for scaling family-owned SMEs, launching Spring 2025.*
+- Agent systems and LLM pipelines — multi-provider routing, cost optimization, eval pipelines
+- Business SaaS for diagnostics, financial analysis, and operations (for the SMEs I advise)
+- Developer tooling — CI/CD, structured observability, LLM-as-a-Judge regression suites
 
-- **Entrepreneurial Consultant**  
-  *Supporting CEOs, directors, and business owners as a strategic advisor, educator, and sparring partner for growth and transformation.*
+**Stack**: Python · Pydantic AI · FastAPI · PostgreSQL · Redis · Docker · Langfuse · Claude Code
 
----
+## Teaching
 
-## 🚀 What I'm Working On
+Live training on AI engineering for developer and mixed (tech + business) teams:
 
-### Ad Limen S.r.l. & Scale Suite
+| Course                                                                            | Repo                                                       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| AI-Driven Development — Claude Code, Codex, hooks, agent patterns, memory systems | [ai-dev-v1](https://github.com/matteocervelli/ai-dev-v1)   |
+| Agents in Production — LLMOps, evals, cost routing, Langfuse observability        | [llm-ops-v1](https://github.com/matteocervelli/llm-ops-v1) |
 
-> **Building bridges across the critical thresholds that block human and organizational potential.**
+## Open source
 
-I’m developing **Ad Limen S.r.l.** as an innovative startup focused on scalable software solutions and knowledge products for mid-sized, growth-oriented companies—especially those at a turning point (succession, crisis, scale-up). My proprietary methodology, **Liminality Engineering™**, combines systems thinking, process optimization, and automation with a people-centric approach.
+| Repo                                                                                             | What                                                                                                                                |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [llms](https://github.com/matteocervelli/llms)                                                   | Claude Code configuration system — skills, hooks, rules, agents for a full SDLC pipeline. Multi-LLM (Claude Code, Codex, OpenCode). |
+| [bot-telegram-obsidian-capture](https://github.com/matteocervelli/bot-telegram-obsidian-capture) | Telegram bot that saves messages as timestamped Obsidian notes                                                                      |
+| [adlimen-vscode-theme](https://github.com/matteocervelli/adlimen-vscode-theme)                   | VS Code / Cursor / Cline theme with Ad Limen color palette                                                                          |
 
-**Key Directions:**
-- SaaS platforms for diagnostic, strategic planning, and execution support
-- Digital products and training for sustainable, scalable growth
-- Automation-first philosophy
+## Links
 
----
-
-## 🧑‍💼 Entrepreneurial Activities
-
-Alongside my startup journey, I advise and support Italian SMEs as a Transformation & Business Scalability Engineer. I deliver value through:
-
-- Systematic assessment & strategic direction
-- Training, knowledge transfer, and productivity enhancement
-- Process improvement and custom digital solutions
-- Serving as a sparring partner and Board advisor
-
-**Unique Positioning:**  
-Ex-CEO + Engineer | Family SME Specialist | Turning Point Mastery | Proprietary Methodology
-
----
-
-## 🌱 Personal Mission
-
-To develop generative business ecosystems capable of building and distributing wellbeing—helping companies and people cross thresholds to create lasting value.
-
----
-
-## 📨 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/matteocervelli/)  
-- [Twitter](https://twitter.com/matteocervelli)  
-- [Website](https://www.matteocervelli.com/)  
-- [Ad Limen](https://www.adlimen.com/)
-
-### 📬 Subscribe to my newsletter: [Scalability Compass](https://newsletter.scalabilitycompass.com/)
-
----
-
-## 🛠️ Tools & AI
-
-I leverage AI as a force multiplier:  
-*Productivity, scenario analysis, customer insights, code & automation, content creation, and more.*
-
----
-
-## 📊 <!-- GitHub Stats Placeholders -->
-<!--
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteocervelli&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteocervelli&layout=compact)
--->
-
----
-
-<details>
-<summary>More about me...</summary>
-
-- Multilingual: 🇮🇹 🇬🇧 🇫🇷 🇪🇸 🇵🇹 (+ some 🇩🇪)
-- Proud husband, dad of three, and dog rescuer
-- Passionate about systems thinking, lean, strategy, and sustainable growth
-- Driven by curiosity, creativity, and a bias for action
-
-</details>
-
----
-
-<p align="center">
-  <em>Let's cross the threshold together.</em>
-</p>
+[matteocervelli.com](https://www.matteocervelli.com) · [Ad Limen](https://www.adlimen.com) · [LinkedIn](https://www.linkedin.com/in/matteocervelli/) · [Newsletter](https://matteocervelli.com/en/newsletter/) · [Buy Me a Coffee](https://buymeacoffee.com/matteocervelli)
