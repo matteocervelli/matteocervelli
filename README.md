@@ -1,4 +1,10 @@
-# Matteo Cervelli
+<!-- Profile README for matteocervelli -->
+
+<p align="center">
+  <img src="https://github.com/matteocervelli/matteocervelli/blob/main/profile-photo.jpg" alt="Matteo Cervelli" width="150" style="border-radius:50%;"/>
+</p>
+
+<h1 align="center">Matteo Cervelli</h1>
 
 Former CEO, now building software and advising the teams navigating what I went through.
 Industrial engineer by training. Based in Tuscany.
