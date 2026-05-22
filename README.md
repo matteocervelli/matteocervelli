@@ -44,7 +44,6 @@ Live training on AI engineering for developer and mixed (tech + business) teams:
 | Course                                                                            | Repo                                                       |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | AI-Driven Development — Claude Code, Codex, hooks, agent patterns, memory systems | [ai-dev-v1](https://github.com/matteocervelli/ai-dev-v1)   |
-| Agents in Production — LLMOps, evals, cost routing, Langfuse observability        | [llm-ops-v1](https://github.com/matteocervelli/llm-ops-v1) |
 
                                                       |
 
